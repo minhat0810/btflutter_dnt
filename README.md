@@ -1,1 +1,1 @@
-# 10 bài tập flutter. lib->exercies
+# 10 bài tập flutter.  Workspace/bt_flutter/liblib/exercies
